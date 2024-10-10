@@ -8,11 +8,12 @@ class Datos:Reciclaje
         for (int i = 0; i < centros.GetLength(0); i++)
         {
             Console.WriteLine($"Digite {i} para {centros[0,i]}");
+            
         }
         double puntoSeleccionado=double.Parse(Console.ReadLine());
         if (puntoSeleccionado==1)
         {
-            // aca creando la condicion paara seleccionar el punto pero est creo que no me servira
+            // aca creando la condicion paara seleccionar el punto pero est creo que no me servira(refactorizar)
         }
         return puntoSeleccionado;
 
