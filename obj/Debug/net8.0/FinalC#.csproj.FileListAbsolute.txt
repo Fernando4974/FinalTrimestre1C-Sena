@@ -1,0 +1,14 @@
+C:\Users\Fertch\Desktop\FinalC#\bin\Debug\net8.0\FinalC#.exe
+C:\Users\Fertch\Desktop\FinalC#\bin\Debug\net8.0\FinalC#.deps.json
+C:\Users\Fertch\Desktop\FinalC#\bin\Debug\net8.0\FinalC#.runtimeconfig.json
+C:\Users\Fertch\Desktop\FinalC#\bin\Debug\net8.0\FinalC#.dll
+C:\Users\Fertch\Desktop\FinalC#\bin\Debug\net8.0\FinalC#.pdb
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.AssemblyInfoInputs.cache
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.AssemblyInfo.cs
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.csproj.CoreCompileInputs.cache
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.dll
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\refint\FinalC#.dll
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.pdb
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\FinalC#.genruntimeconfig.cache
+C:\Users\Fertch\Desktop\FinalC#\obj\Debug\net8.0\ref\FinalC#.dll
